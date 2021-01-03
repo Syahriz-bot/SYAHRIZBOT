@@ -81,94 +81,96 @@ Terakhir scan kode QR
 
 ## FITUR
 
-| SIMSIMI |Yes|
+| Creator |Yes|
 | ------------- | ------------- |
-| Simsimi |✅|
+| Respond img to sticker|✅|
+| Respond img to sticker no bg|✅|
+| Respond url to sticker|✅|
+| Respond gif to sticker|✅|
+| Respond giphy url to sticker|✅|
+| Quotes maker result pict|✅|
+| Tulis Bot|✅|
 
-| FUN |Yes|
+| Islam |Yes|
 | ------------- | ------------- |
-| Say|✅|
-| Nama ninja|✅|
-| Puisi|✅|
-| Cerpen|✅|
-| Tagme|✅|
-| Seberapa bucin|✅|
-| Chat prank|✅|
-| Font alay|✅|
-| Family 100|✅|
-| Status bapack|✅|
-| Gombal|✅|
+| List Surah|✅|
+| Info Surah|✅|
+| Surah|✅|
+| Tafsir Alquran|✅|
+| Alquran Audio/Voice|✅|
+| Jadwal solat|✅|
 
-
-| Game |Yes|
-| ------------- | ------------- |
-| Teka gambar|✅|
-| Family 100|✅|
-| Truth or dare|✅|
-| Pertanyaan (apakah, bolehkah, bila)|✅|
-
-
-| DOWNLOAD |Yes|
+| Downloader |Yes|
 | ------------- | ------------- |
 | Youtube Music |✅|
 | Youtube Video |✅|
-| Instagram foto/video |✅|
-| Facebook video |✅|
-| Twitter video |✅|
+| Facebook |✅|
 
-
-| TOOLS |Yes|
+| Fun Group! |Yes|
 | ------------- | ------------- |
-| Nulis|✅|
-| Stiker|✅|
-| Instagram stalker|✅|
-| Shortlink|✅|
+| Simi-simi BOT|✅|
+| Anti kata kasar|✅|
 
-
-| PICTURE |Yes|
+| Searchs |Yes|
 | ------------- | ------------- |
-| Wallpaper|✅|
+| Images |✅|
+| Subreddit |✅|
+| Stalk IG |✅|
+| Wikipedia |✅|
+| Cuaca |✅|
+| Chord musik |✅|
+| Lirik musik |✅|
+| Screen Crot!|✅|
+| Play music|✅|
+| whats anime?|✅|
+
+| Random text |Yes|
+| ------------- | ------------- |
+| Pantun pakboy|✅|
+| Fakta Menarik|✅|
+| Kata Bijak|✅|
 | Quotes|✅|
-| Twitter|✅|
-| Img|✅|
-
-
-| TEXT |Yes|
-| ------------- | ------------- |
-| Quotes maker|✅|
-| Logo pornhub|✅|
-| Logo e-sport|✅|
-
-
-| EDUKASI |Yes|
-| ------------- | ------------- |
-| Al-Qur'an|✅|
-| Al-Qur'an per surah|✅|
-| Wikipedia|✅|
-| Fakta|✅|
-
-
-| WHEATER |Yes|
-| ------------- | ------------- |
-| Info cuaca |✅|
+| Cerita Pendek|✅|
+| Puisi|✅|
 
 
 | Others |Yes|
 | ------------- | ------------- |
-| Info Covid|✅|
-| Lirik lagu|✅|
-| Chord lagu|✅|
-| Mini map|✅|
-
+| Teks to Sound/Voice|✅|
+| Translate teks|✅|
+| Get covid info from map|✅|
+| Covid-19 |✅|
+| Shortlink|✅|
+| Bap4k F0nt|✅|
 
 | Groups |Yes|
 | ------------- | ------------- |
-| Merubah Nama grup|✅|
-| Merubah deskripsi grup|✅|
-| Menutup grup|✅|
-| Membuka grup|✅|
-| Ping|✅|
-| Owner|✅|
+| Owner||
+| Kick all members|✅|
+| Admin||
+| Add user|✅|
+| Kick user|✅|
+| Promote User|✅|
+| Demote User|✅|
+| Mute Group|✅|
+| Change Group icon|✅|
+| Delete bot msg|✅|
+| Tagall/mentions all|✅|
+| Welcome ON/OFF|✅|
+
+
+| Owner bot |Yes|
+| ------------- | ------------- |
+| Broadcast|✅|
+| Leave all group|✅|
+| Delete all msgs|✅|
+| Banned user|✅|
+
+
+## To-Do
+ - Add Media Downloader
+ - Add More Feature
+ - More refactoring
 
 
 
