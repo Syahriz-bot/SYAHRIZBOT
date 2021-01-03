@@ -92,29 +92,20 @@ Terakhir scan kode QR
 | Puisi|✅|
 | Cerpen|✅|
 | Tagme|✅|
-| Seberapa gay|✅|
 | Seberapa bucin|✅|
 | Chat prank|✅|
 | Font alay|✅|
 | Family 100|✅|
-| Kata kata receh|✅|
 | Status bapack|✅|
 | Gombal|✅|
 
 
-| PRIMBON |Yes|
-| ------------- | ------------- |
-| Arti nama|✅|
-| Kecocokan nama|✅|
-| Get zodiak|✅|
-| Zodiak|✅|
-
 | Game |Yes|
 | ------------- | ------------- |
-| Tebak gambar|✅|
+| Teka gambar|✅|
 | Family 100|✅|
 | Truth or dare|✅|
-| Kerang ajaib (apakah, bolehkah, kapan)|✅|
+| Pertanyaan (apakah, bolehkah, bila)|✅|
 
 
 | DOWNLOAD |Yes|
@@ -125,26 +116,22 @@ Terakhir scan kode QR
 | Facebook video |✅|
 | Twitter video |✅|
 
+
 | TOOLS |Yes|
 | ------------- | ------------- |
 | Nulis|✅|
 | Stiker|✅|
-| OCR|✅|
 | Instagram stalker|✅|
 | Shortlink|✅|
 
+
 | PICTURE |Yes|
 | ------------- | ------------- |
-| Cecan|✅|
-| Cogan|✅|
-| Anime|✅|
-| Loli|✅|
-| Neko|✅|
 | Wallpaper|✅|
 | Quotes|✅|
 | Twitter|✅|
-| Meme|✅|
 | Img|✅|
+
 
 | TEXT |Yes|
 | ------------- | ------------- |
@@ -152,32 +139,27 @@ Terakhir scan kode QR
 | Logo pornhub|✅|
 | Logo e-sport|✅|
 
+
 | EDUKASI |Yes|
 | ------------- | ------------- |
 | Al-Qur'an|✅|
 | Al-Qur'an per surah|✅|
-| Brainly|✅|
 | Wikipedia|✅|
 | Fakta|✅|
-| KBBI|✅|
-| Tanggal Nasional|✅|
+
 
 | WHEATER |Yes|
 | ------------- | ------------- |
-| Info BMKG |✅|
-| Info gempa |✅|
 | Info cuaca |✅|
+
 
 | Others |Yes|
 | ------------- | ------------- |
-| Jadwal tv|✅|
-| Jadwal tv (channel)|✅|
-| Jadwal sholat|✅|
 | Info Covid|✅|
-| Info anime|✅|
 | Lirik lagu|✅|
 | Chord lagu|✅|
 | Mini map|✅|
+
 
 | Groups |Yes|
 | ------------- | ------------- |
@@ -187,6 +169,8 @@ Terakhir scan kode QR
 | Membuka grup|✅|
 | Ping|✅|
 | Owner|✅|
+
+
 
 ## Contacts
 * [Instagram](https://www.instagram.com/_.riz.s/)
